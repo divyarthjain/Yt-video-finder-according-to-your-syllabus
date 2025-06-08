@@ -311,9 +311,9 @@ copies or substantial portions of the Software.
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/ai-youtube-video-finder/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/ai-youtube-video-finder/discussions)
-- **Email**: your.email@example.com
+- **Issues**: [GitHub Issues](https://github.com/divyarthjain/Yt-video-finder-according-to-your-syllabus/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/divyarthjain/Yt-video-finder-according-to-your-syllabus/discussions)
+- **Email**: divyarthj24@gmail.com
 
 ## 🌟 Show Your Support
 
