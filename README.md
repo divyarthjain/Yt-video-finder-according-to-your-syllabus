@@ -35,10 +35,10 @@ Transform your syllabus into a personalized video learning experience with this 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ai-youtube-video-finder.git
+git clone https://github.com/divyarthjain/Yt-video-finder-according-to-your-syllabus.git
 
 # Navigate to the project directory
-cd ai-youtube-video-finder
+cd Yt-video-finder-according-to-your-syllabus
 
 # Open in your browser
 open index.html
