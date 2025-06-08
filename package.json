@@ -1,0 +1,46 @@
+{
+  "name": "ai-youtube-video-finder",
+  "version": "1.0.0",
+  "description": "Transform your syllabus into a personalized video learning experience with intelligent YouTube video matching",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx live-server --port=3000",
+    "build": "echo 'No build process needed for static site'",
+    "test": "echo 'No tests specified'",
+    "lint": "echo 'Linting would go here'",
+    "format": "prettier --write *.html *.js *.css *.md",
+    "deploy": "gh-pages -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/ai-youtube-video-finder.git"
+  },
+  "keywords": [
+    "youtube",
+    "education",
+    "syllabus",
+    "learning",
+    "video-finder",
+    "api",
+    "javascript",
+    "html5",
+    "tailwindcss",
+    "educational-tool"
+  ],
+  "author": "Your Name <your.email@example.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yourusername/ai-youtube-video-finder/issues"
+  },
+  "homepage": "https://github.com/yourusername/ai-youtube-video-finder#readme",
+  "devDependencies": {
+    "prettier": "^3.0.0",
+    "live-server": "^1.2.2",
+    "serve": "^14.2.0",
+    "gh-pages": "^6.0.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
